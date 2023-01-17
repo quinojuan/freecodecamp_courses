@@ -1,0 +1,14 @@
+#title {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+}
+
+#name-label, #email-label, #number-label {
+    display: block;
+}
+#name, #email, #number {
+    width: 100%;
+}
